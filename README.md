@@ -8,7 +8,8 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 - ### Machine Learning
 
 	- [Health insurance](https://github.com/pankajigec26/machine_learning_projects/blob/master/Health%20insurance/Applied_statistics_techniques.ipynb): This project used Hypothesis Testing and Visualization to leverage customer's health information like smoking habits, bmi, age, and gender for checking statistical evidence to make valuable decisions of insurance business like charges for health insurance.
-	Skills and Tools: Hypothesis Testing, Data visualisation, statistical interference
+	
+     #Skills and Tools **Hypothesis Testing, Data visualisation, statistical interference**
 
 	- [Supervised Learning: Finding Donors for CharityML](https://github.com/sajal2692/data-science-portfolio/blob/master/finding_donors/finding_donors.ipynb): Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
 	- [Unsupervised Learning: Creating Customer Segments](https://github.com/sajal2692/data-science-portfolio/blob/master/customer_segments/customer_segments.ipynb): Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
