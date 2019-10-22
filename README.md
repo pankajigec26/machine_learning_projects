@@ -7,7 +7,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 - ### Machine Learning
 
-	- [Health insurance](https://github.com/pankajigec26/machine_learning_projects/blob/master/Health%20insurance/Applied_statistics_techniques.ipynb): This project used Hypothesis Testing and Visualization to leverage customer's health information like smoking habits, bmi, age, and gender for checking statistical evidence to make valuable decisions of insurance business like charges for health insurance.
+	- [Applied statistics: Health insurance](https://github.com/pankajigec26/machine_learning_projects/blob/master/Health%20insurance/Applied_statistics_techniques.ipynb): This project used Hypothesis Testing and Visualization to leverage customer's health information like smoking habits, bmi, age, and gender for checking statistical evidence to make valuable decisions of insurance business like charges for health insurance.
 	  
 	  Skills and Tools: **Hypothesis Testing, Data visualisation, statistical interference**
 
