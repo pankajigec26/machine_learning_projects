@@ -13,7 +13,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 	- [Supervised Learning: Predict the income level of the customers](https://github.com/pankajigec26/machine_learning_projects/blob/master/Predict%20the%20income%20level/Supervised_learning_project.ipynb): This Project involved using classification algorithms to predict the income level of the customers based on attributes like 'sex', 'marital-status', 'age', 'occupation' etc. The classification algorithms that were used are Naive Bayes, Logistic Regression, KNN, and Decision Tree. And finally, a comparison of accuracy across these models was done to finalize the model for prediction.
 
-    Skills and Tools : **EDA and Classification algorithms**
+      Skills and Tools : **EDA and Classification algorithms**
 	
 	- [Unsupervised Learning: Creating Customer Segments](https://github.com/sajal2692/data-science-portfolio/blob/master/customer_segments/customer_segments.ipynb): Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
 	- [Reinforcement Learning: Training a Smartcab to Drive](https://github.com/sajal2692/Training-a-Smartcab-to-Drive): Creating an optimized Q-Learning driving agent that will navigate a Smartcab through its environment towards a goal.
